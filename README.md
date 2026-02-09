@@ -1,4 +1,4 @@
-# Hi, I'm Net! 👋
+# Hi, I'm Linette! 👋
 
 ### QA Analyst | Python Automation Developer | Building FlowNet
 
