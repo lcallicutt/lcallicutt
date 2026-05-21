@@ -41,7 +41,7 @@ I help churches and small organizations automate their workflows and free up tim
 🌐 Developing church websites with integrated automation  
 📚 Working toward SQL & Python fluency (6-month intensive)  
 ✍️ Creating digital products for churches & small businesses  
-📱 Documenting my learning journey on [Instagram](@linettecallicutt) & [Pinterest](www.pinterest.com/lcallicutt24)
+📱 Documenting my learning journey on [Instagram](@aiwithnet) & [Pinterest](www.pinterest.com/lcallicutt24)
 
 ---
 
@@ -67,9 +67,9 @@ I help churches and small organizations automate their workflows and free up tim
 
 ## 📫 Let's Connect
 
-- 💼 FlowNet Inquiries: [Your Email or Contact Form]
+- 💼 FlowNet Inquiries: [Website](www.flownetautomation.com)
 - 🌐 Portfolio: [Coming Soon - Your Website URL]
-- 📸 Instagram: [@Instagram](@linettecallicutt)
+- 📸 Instagram: [@Instagram](@aiwithnet)
 - 💡 Pinterest: [Pinterest](www.pinterest.com/lcallicutt24)
 
 ---
